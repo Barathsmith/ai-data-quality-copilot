@@ -1,0 +1,73 @@
+Issue,Column,Count,Possible_Cause,Suggested_Action,AI_Explanation
+Missing values,name,16,Missing source data or upstream transformation,Inspect source records before filling or removing,"Issue: Missing values
+Column: name
+Affected records: 16
+Possible cause: Missing source data or upstream transformation
+Recommended action: Inspect source records before filling or removing
+Note: The possible cause has not been independently verified."
+Missing values,host_name,21,Missing source data or upstream transformation,Inspect source records before filling or removing,"Issue: Missing values
+Column: host_name
+Affected records: 21
+Possible cause: Missing source data or upstream transformation
+Recommended action: Inspect source records before filling or removing
+Note: The possible cause has not been independently verified."
+Missing values,last_review,10052,Missing source data or upstream transformation,Inspect source records before filling or removing,"Issue: Missing values
+Column: last_review
+Affected records: 10052
+Possible cause: Missing source data or upstream transformation
+Recommended action: Inspect source records before filling or removing
+Note: The possible cause has not been independently verified."
+Missing values,reviews_per_month,10052,Missing source data or upstream transformation,Inspect source records before filling or removing,"Issue: Missing values
+Column: reviews_per_month
+Affected records: 10052
+Possible cause: Missing source data or upstream transformation
+Recommended action: Inspect source records before filling or removing
+Note: The possible cause has not been independently verified."
+Potential outliers,host_id,1526,"Extreme values, data-entry errors",Inspect flagged values against business expectations,"Issue: Potential outliers
+Column: host_id
+Affected records: 1526
+Possible cause: Extreme values, data-entry errors
+Recommended action: Inspect flagged values against business expectations
+Note: The possible cause has not been independently verified."
+Potential outliers,latitude,425,"Extreme values, data-entry errors",Inspect flagged values against business expectations,"Issue: Potential outliers
+Column: latitude
+Affected records: 425
+Possible cause: Extreme values, data-entry errors
+Recommended action: Inspect flagged values against business expectations
+Note: The possible cause has not been independently verified."
+Potential outliers,longitude,2833,"Extreme values, data-entry errors",Inspect flagged values against business expectations,"Issue: Potential outliers
+Column: longitude
+Affected records: 2833
+Possible cause: Extreme values, data-entry errors
+Recommended action: Inspect flagged values against business expectations
+Note: The possible cause has not been independently verified."
+Potential outliers,price,2972,"Extreme values, data-entry errors",Inspect flagged values against business expectations,"Issue: Potential outliers
+Column: price
+Affected records: 2972
+Possible cause: Extreme values, data-entry errors
+Recommended action: Inspect flagged values against business expectations
+Note: The possible cause has not been independently verified."
+Potential outliers,minimum_nights,6607,"Extreme values, data-entry errors",Inspect flagged values against business expectations,"Issue: Potential outliers
+Column: minimum_nights
+Affected records: 6607
+Possible cause: Extreme values, data-entry errors
+Recommended action: Inspect flagged values against business expectations
+Note: The possible cause has not been independently verified."
+Potential outliers,number_of_reviews,6021,"Extreme values, data-entry errors",Inspect flagged values against business expectations,"Issue: Potential outliers
+Column: number_of_reviews
+Affected records: 6021
+Possible cause: Extreme values, data-entry errors
+Recommended action: Inspect flagged values against business expectations
+Note: The possible cause has not been independently verified."
+Potential outliers,reviews_per_month,1793,"Extreme values, data-entry errors",Inspect flagged values against business expectations,"Issue: Potential outliers
+Column: reviews_per_month
+Affected records: 1793
+Possible cause: Extreme values, data-entry errors
+Recommended action: Inspect flagged values against business expectations
+Note: The possible cause has not been independently verified."
+Potential outliers,calculated_host_listings_count,7081,"Extreme values, data-entry errors",Inspect flagged values against business expectations,"Issue: Potential outliers
+Column: calculated_host_listings_count
+Affected records: 7081
+Possible cause: Extreme values, data-entry errors
+Recommended action: Inspect flagged values against business expectations
+Note: The possible cause has not been independently verified."
