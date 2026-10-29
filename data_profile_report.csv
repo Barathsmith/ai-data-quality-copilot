@@ -1,0 +1,17 @@
+Column,Data_Type,Missing_Count,Unique_Count
+id,int64,0,48895
+name,object,16,47905
+host_id,int64,0,37457
+host_name,object,21,11452
+neighbourhood_group,object,0,5
+neighbourhood,object,0,221
+latitude,float64,0,19048
+longitude,float64,0,14718
+room_type,object,0,3
+price,int64,0,674
+minimum_nights,int64,0,109
+number_of_reviews,int64,0,394
+last_review,object,10052,1764
+reviews_per_month,float64,10052,937
+calculated_host_listings_count,int64,0,47
+availability_365,int64,0,366

@@ -1,0 +1,13 @@
+Issue,Column,Count,Possible_Cause,Suggested_Action
+Missing values,name,16,Missing source data or an upstream transformation,Inspect source records before filling or removing values
+Missing values,host_name,21,Missing source data or an upstream transformation,Inspect source records before filling or removing values
+Missing values,last_review,10052,Missing source data or an upstream transformation,Inspect source records before filling or removing values
+Missing values,reviews_per_month,10052,Missing source data or an upstream transformation,Inspect source records before filling or removing values
+Potential outliers,host_id,1526,"Extreme values, data-entry errors or unit differences",Inspect flagged values against business expectations
+Potential outliers,latitude,425,"Extreme values, data-entry errors or unit differences",Inspect flagged values against business expectations
+Potential outliers,longitude,2833,"Extreme values, data-entry errors or unit differences",Inspect flagged values against business expectations
+Potential outliers,price,2972,"Extreme values, data-entry errors or unit differences",Inspect flagged values against business expectations
+Potential outliers,minimum_nights,6607,"Extreme values, data-entry errors or unit differences",Inspect flagged values against business expectations
+Potential outliers,number_of_reviews,6021,"Extreme values, data-entry errors or unit differences",Inspect flagged values against business expectations
+Potential outliers,reviews_per_month,1793,"Extreme values, data-entry errors or unit differences",Inspect flagged values against business expectations
+Potential outliers,calculated_host_listings_count,7081,"Extreme values, data-entry errors or unit differences",Inspect flagged values against business expectations
